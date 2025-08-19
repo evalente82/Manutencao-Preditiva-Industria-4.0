@@ -98,17 +98,6 @@ Simulador Contínuo → API de Ingestão → Kafka (Confluent) → Serviço de P
                                                        → Serviço de Persistência → Banco de Dados (PostgreSQL) → API do Dashboard (WebSockets) → Frontend (Navegador)
 ```
 
-## Tecnologias Utilizadas
-
-- **Backend:** Python (FastAPI)
-- **Frontend:** React
-- **Mensageria:** Apache Kafka (Confluent Cloud)
-- **Banco de Dados:** PostgreSQL
-- **Machine Learning:** TensorFlow/Keras (LSTM)
-- **Containerização:** Docker (opcional)
-
-## Documentação do Modelo LSTM
-
 ### O Processo de Treinamento do Modelo LSTM
 
 O "cérebro" da aplicação é um modelo de Deep Learning do tipo LSTM (Long Short-Term Memory), treinado para prever a Vida Útil Remanescente (RUL) de motores de turbina de avião.
