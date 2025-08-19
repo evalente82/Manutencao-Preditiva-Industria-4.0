@@ -73,10 +73,12 @@ O dashboard é a materialização de toda a pipeline de MLOps, demonstrando como
 
 # Projeto de Manutenção Preditiva para Indústria 4.0
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Dashboard+Preview)
-![Architecture Diagram](https://via.placeholder.com/800x400.png?text=Architecture+Diagram)
-![Kafka Setup](https://via.placeholder.com/800x400.png?text=Kafka+Setup)
-![Simulation Demo](https://via.placeholder.com/800x400.png?text=Simulation+Demo)
+
+<img src="Imagens/img001.png" alt="Dashboard Preview" width="800">
+<img src="Imagens/img01.png" alt="Architecture Diagram" width="800">
+<img src="Imagens/img02.png" alt="Kafka Setup" width="800">
+<img src="Imagens/img03.png" alt="Simulation Demo" width="800">
+
 
 Este projeto é um sistema completo de manutenção preditiva construído com uma arquitetura de microserviços e Apache Kafka. O sistema simula a coleta de dados de sensores em tempo real, processa através de uma pipeline de eventos, utiliza um modelo de Deep Learning (LSTM) para prever a Vida Útil Remanescente (RUL) de turbinas de avião e exibe os resultados em um dashboard interativo que se atualiza automaticamente.
 
